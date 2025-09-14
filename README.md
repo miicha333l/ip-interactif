@@ -1,4 +1,4 @@
-# 🌐 IP Subnet Calculator
+# 🌐 IP interactif
 
 > Un outil moderne et interactif pour **calculer, visualiser et explorer les sous-réseaux IP**.  
 > Conçu pour les étudiants en réseaux, les pentesters, et les admins systèmes.  
@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Démo en ligne
-👉 [IP Subnet Calculator - GitHub Pages](https://miicha333l.github.io/ip-interactif)
+👉 [IP interactif - GitHub Pages](https://miicha333l.github.io/ip-interactif)
 
 ---
 ## 🏆 Fonctionnalités
@@ -24,9 +24,7 @@
 - [Démo en ligne](#-démo-en-ligne)  
 - [Aperçu](#-aperçu)  
 - [Fonctionnalités](#-fonctionnalités)  
-- [Installation](#-installation)  
-- [Technologies](#-technologies)  
-- [Contribuer](#-contribuer)  
+- [Installation](#-installation)
 - [Licence](#-licence)  
 
 ---
@@ -36,5 +34,5 @@
 Clone le projet et lance-le en local :  
 
 ```bash
-git clone https://github.com/TON_USER/ip-subnet-calculator.git
-cd ip-subnet-calculator
+git clone https://github.com/TON_USER/ip-interactif.git
+cd ip-interactif
