@@ -6,20 +6,9 @@
 ---
 
 ## 📊 Démo en ligne
-👉 [IP Subnet Calculator - GitHub Pages](https://TON_USER.github.io/ip-subnet-calculator)
+👉 [IP Subnet Calculator - GitHub Pages](https://miicha333l.github.io/ip-interactif)
 
 ---
-
-## 🖼️ Aperçu
-
-### Vue principale
-![screenshot](assets/screenshot-main.png)
-
-### Visualisation des IP
-![screenshot](assets/screenshot-zoom.png)
-
----
-
 ## 🏆 Fonctionnalités
 
 - ✅ **Calcul automatique** des sous-réseaux à partir d’une IP + masque/prefixe.  
