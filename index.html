@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>IP Dashboard Interactif</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>IP Dashboard Interactif</h1>
+
+    <div class="inputs">
+      <input id="ip" type="text" placeholder="192.168.1.10" />
+      <input id="prefix" type="number" placeholder="24" min="0" max="32" />
+      <button id="calculateBtn">Calculer</button>
+      <button id="exportCSVBtn">Exporter CSV</button>
+      <button id="exportTXTBtn">Exporter TXT</button>
+    </div>
+
+    <div class="result">
+      <div id="summary"></div>
+      <input id="filter" type="text" placeholder="Filtrer IP..." />
+      <div id="tableContainer"></div>
+      <div id="pagination"></div>
+      <div id="subnetDiagrams"></div>
+      <div id="networkDiagram"></div>
+    </div>
+  </div>
+
+  <!-- script chargé en defer pour s'assurer que le DOM est prêt -->
+  <script src="script.js" defer></script>
+</body>
+</html>
